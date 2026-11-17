@@ -9,7 +9,7 @@ The objective was to design an electronic circuit that activates a relay after a
 
 ## Circuit Design
 The design incorporates:
-- CD4011 CMOS NAND gates
+- CMOS logic IC
 - RC timing network
 - Relay output stage
 - Capacitor-based power supply with Zener diode voltage regulation
