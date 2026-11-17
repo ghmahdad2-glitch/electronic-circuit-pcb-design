@@ -13,7 +13,13 @@ The design incorporates:
 - RC timing network
 - Relay output stage
 - Capacitor-based power supply with Zener diode voltage regulation
+## PCB Layout
 
+![PCB Layout](PCB_Layout.jpg)
+
+## Schematic
+
+[View Circuit Schematic (PDF)](Circuit_Schematic.pdf.pdf)
 ## Tools
 - **Altium Designer:** Circuit schematic and single-layer PCB layout
 - **Proteus:** Circuit simulation
