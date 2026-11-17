@@ -1,6 +1,6 @@
 # electronic-circuit-pcb-design
 Electronic circuit schematic and PCB design using Altium Designer
-# Power-On Delay Relay – CD4011 CMOS Circuit
+# Power-On Delay Relay – CMOS Circuit
 
 ## Project Overview
 This project was developed during my Bachelor's studies in Electrical Engineering at Azad University of Shiraz.
